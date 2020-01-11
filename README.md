@@ -27,3 +27,12 @@ Version | Branch name | Changes between ASP .NET Core versions |
 9. Created branch `release/3.0`
 10. Deleted project files and re-created web application using ASP.NET Core 3.1
 11. Created branch `release/3.1`
+
+## More information
+
+See also:
+
+- [Migrate from ASP.NET Core 3.0 to 3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31)
+- [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30)
+- [Migrate from ASP.NET Core 2.1 to 2.2](https://docs.microsoft.com/en-us/aspnet/core/migration/21-to-22)
+- [Migrate from ASP.NET Core 2.0 to 2.1](https://docs.microsoft.com/en-us/aspnet/core/migration/20_21)
