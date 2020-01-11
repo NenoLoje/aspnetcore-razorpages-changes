@@ -8,9 +8,10 @@ This repo contains empty, fresh **Web applications** using Visual Studio, create
 
 Version | Branch name | Changes between ASP .NET Core versions |
 ------- | ----------- | ---------------------------------------|
-3.0     | release/3.0 | ASP .NET Core 2.2 and 3.0              |
-2.2     | release/2.2 | ASP .NET Core 2.1 and 2.2              |
-2.1     | release/2.1 | ASP .NET Core 2.0 and 2.1              |
+3.1     | release/3.1 | ASP .NET Core 3.0 vs 3.1              |
+3.0     | release/3.0 | ASP .NET Core 2.2 vs 3.0              |
+2.2     | release/2.2 | ASP .NET Core 2.1 vs 2.2              |
+2.1     | release/2.1 | ASP .NET Core 2.0 vs 2.1              |
 2.0     | release/2.0 | Initial version in this repo           |
 
 ## Version history
@@ -24,3 +25,5 @@ Version | Branch name | Changes between ASP .NET Core versions |
 7. Created branch `release/2.2`
 8. Deleted project files and re-created web application using ASP.NET Core 3.0
 9. Created branch `release/3.0`
+10. Deleted project files and re-created web application using ASP.NET Core 3.1
+11. Created branch `release/3.1`
