@@ -16,7 +16,7 @@ Version | Branch name | Changes between ASP .NET Core versions |
 
 ## Version history
 
-1. Created **ASP .NET Core Web Application**, targeting ASP.NET Core 2.0 using template **Web Application**
+1. Created **ASP .NET Core Web Application**, targeting ASP.NET Core 2.0 using template **Web Application** (with *Configure for HTTPS* checked)
 2. Added this README.MD file to repo
 3. Created branch `release/2.0`
 4. Deleted project files and re-created web application using ASP.NET Core 2.1
